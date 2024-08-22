@@ -24,3 +24,5 @@ en:
       other: '{count} Taxonomy Types'
     SINGULARNAME: 'Taxonomy Type'
     db_Name: Name
+  SilverStripe\Taxonomy\TaxonomyTermUrlExtension:
+    LeaveBlankLabel: 'Leave blank to generate from name'
